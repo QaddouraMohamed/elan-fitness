@@ -556,3 +556,22 @@ textarea {
 .texts {
   height: 30px;
 }
+
+#contact {
+  display: flex;
+  max-width: 100%;
+}
+
+#contact img {
+  width: 40%;
+  height: 60%;
+  border-radius: 7%;
+  margin-left: 100px;
+  margin-top: 7%;
+  margin-left: 2%;
+}
+
+.grid-conteneur {
+  width: 50%;
+  height: 60%;
+}
