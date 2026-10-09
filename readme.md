@@ -13,3 +13,4 @@ Throughout the process, I learned about:
 - CSS cascading
 - CSS floats
 - CSS Flexbox
+- clear project structure
