@@ -551,6 +551,7 @@ button:focus-visible {
 
 textarea {
   height: 200px;
+  resize: none;
 }
 
 .texts {
@@ -567,7 +568,7 @@ textarea {
   height: 60%;
   border-radius: 7%;
   margin-left: 100px;
-  margin-top: 7%;
+  margin-top: 13%;
   margin-left: 2%;
 }
 
